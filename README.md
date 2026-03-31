@@ -9,3 +9,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [01. Guided workshop: observing digital campaigns](01-guided-workshop-observing-digital-campaigns/)
 - [02. Workshop: combining marketing goals and channels](02-workshop-combining-marketing-goals-and-channels/)
 - [03. Workshop: drawing a simple funnel](03-workshop-drawing-a-simple-funnel/)
+- [04. Workshop: creating a dedicated Gmail address](04-workshop-creating-a-dedicated-gmail-address/)
