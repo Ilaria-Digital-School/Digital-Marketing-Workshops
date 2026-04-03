@@ -11,3 +11,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [03. Workshop: drawing a simple funnel](03-workshop-drawing-a-simple-funnel/)
 - [04. Workshop: creating a dedicated Gmail address](04-workshop-creating-a-dedicated-gmail-address/)
 - [05. Workshop: organizing your Drive for the project](05-workshop-organizing-your-drive-for-the-project/)
+- [06. Workshop: installing a password manager](06-workshop-installing-a-password-manager/)

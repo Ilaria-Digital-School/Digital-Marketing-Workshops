@@ -17,4 +17,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 03. [Workshop: drawing a simple funnel](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/c9825d27-56be-4263-b46c-6cc74eef7592/workshop-drawing-a-simple-funnel)
 04. [Workshop: creating a dedicated Gmail address](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/3cc1ef4a-8376-4441-b3a7-e36bae552e56/workshop-creating-a-dedicated-gmail-address)
 05. [Workshop: organizing your Drive for the project](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/36511850-8e80-4108-b1d2-037043fc859e/workshop-organizing-your-drive-for-the-project)
+06. [Workshop: installing a password manager](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/a8fd8459-55ea-4f82-b12b-013739567cb4/workshop-installing-a-password-manager)
 
