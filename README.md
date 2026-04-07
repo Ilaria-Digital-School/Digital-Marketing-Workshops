@@ -12,3 +12,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [04. Workshop: creating a dedicated Gmail address](04-workshop-creating-a-dedicated-gmail-address/)
 - [05. Workshop: organizing your Drive for the project](05-workshop-organizing-your-drive-for-the-project/)
 - [06. Workshop: installing a password manager](06-workshop-installing-a-password-manager/)
+- [07. Workshop: create a Trello 'Digital Campaign' board](07-workshop-create-a-trello-digital-campaign-board/)
+- [08. Workshop: Customizing labels and deadlines](08-workshop-customizing-labels-and-deadlines/)
