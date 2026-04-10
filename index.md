@@ -20,4 +20,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 06. [Workshop: installing a password manager](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/a8fd8459-55ea-4f82-b12b-013739567cb4/workshop-installing-a-password-manager)
 07. [Workshop: create a Trello 'Digital Campaign' board](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/531c4046-4f2b-4f18-935d-5645284796b2/workshop-create-a-trello-digital-campaign-board)
 08. [Workshop: Customizing labels and deadlines](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/beb0045e-d5bc-49eb-b51b-9dd773e18369/workshop-customizing-labels-and-deadlines)
+09. [Workshop: writing a value proposition for a fictional product](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/47ecd1bf-ffbe-433e-b45b-8cfe75a3b47f/workshop-writing-a-value-proposition-for-a-fictional-product)
 
