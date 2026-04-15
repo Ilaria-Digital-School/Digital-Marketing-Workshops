@@ -22,4 +22,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 08. [Workshop: Customizing labels and deadlines](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/beb0045e-d5bc-49eb-b51b-9dd773e18369/workshop-customizing-labels-and-deadlines)
 09. [Workshop: writing a value proposition for a fictional product](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/47ecd1bf-ffbe-433e-b45b-8cfe75a3b47f/workshop-writing-a-value-proposition-for-a-fictional-product)
 10. [Workshop: associate KPIs with funnel stages](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/612dcccf-8cb8-44ea-b62d-ae8bd4a08406/workshop-associate-kpis-with-funnel-stages)
+11. [Workshop: identify key metrics in GA](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/3beb0d2d-df0f-4107-9943-6071f30ef09f/0e24b9fa-d3d5-46a3-8667-0d9f14d189e4/workshop-identify-key-metrics-in-ga)
 

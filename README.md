@@ -16,3 +16,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [08. Workshop: Customizing labels and deadlines](08-workshop-customizing-labels-and-deadlines/)
 - [09. Workshop: writing a value proposition for a fictional product](09-workshop-writing-a-value-proposition-for-a-fictional-product/)
 - [10. Workshop: associate KPIs with funnel stages](10-workshop-associate-kpis-with-funnel-stages/)
+- [11. Workshop: identify key metrics in GA](11-workshop-identify-key-metrics-in-ga/)
