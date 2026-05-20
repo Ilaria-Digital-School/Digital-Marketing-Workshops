@@ -1,0 +1,1 @@
+// Checklist workshop: Validating that an objective is fully SMART
