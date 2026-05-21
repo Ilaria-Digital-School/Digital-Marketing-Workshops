@@ -34,3 +34,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [26. Workshop: Selecting KPIs for an email campaign](26-workshop-selecting-kpis-for-an-email-campaign/)
 - [27. Workshop: Mapping KPI to the AARRR funnel](27-workshop-mapping-kpi-to-the-aarrr-funnel/)
 - [28. Workshop: Calculating baseline from fictional data](28-workshop-calculating-baseline-from-fictional-data/)
+- [29. Workshop: Identifying leading indicators for a given objective](29-workshop-identifying-leading-indicators-for-a-given-objective/)
