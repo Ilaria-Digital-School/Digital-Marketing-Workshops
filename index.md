@@ -42,4 +42,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 28. [Workshop: Calculating baseline from fictional data](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/0bfa6fba-4cd4-4780-9cc7-45b91faf58d4/workshop-calculating-baseline-from-fictional-data)
 29. [Workshop: Identifying leading indicators for a given objective](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/be76c608-53fa-48a6-9874-451565c17d7f/workshop-identifying-leading-indicators-for-a-given-objective)
 30. [Mini-project: Create the SMART objectives/KPI matrix for an e-commerce site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/69d472e5-5c0b-4344-99e5-8b5cdb2b83cb/mini-project-create-the-smart-objectives-kpi-matrix-for-an-e-commerce-site)
+31. [Workshop: Choosing the right visual for each KPI](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/fe373e55-b0ff-4cfd-a999-d51290e723eb/workshop-choosing-the-right-visual-for-each-kpi)
 
