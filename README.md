@@ -38,3 +38,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [30. Mini-project: Create the SMART objectives/KPI matrix for an e-commerce site](30-mini-project-create-the-smart-objectives-kpi-matrix-for-an-e-commerce-site/)
 - [31. Workshop: Choosing the right visual for each KPI](31-workshop-choosing-the-right-visual-for-each-kpi/)
 - [32. Workshop: Weekly vs monthly monitoring plan](32-workshop-weekly-vs-monthly-monitoring-plan/)
+- [33. Workshop: Converting an OKR into SMART + KPI goals](33-workshop-converting-an-okr-into-smart-kpi-goals/)
