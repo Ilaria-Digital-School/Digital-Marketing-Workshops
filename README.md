@@ -40,3 +40,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [32. Workshop: Weekly vs monthly monitoring plan](32-workshop-weekly-vs-monthly-monitoring-plan/)
 - [33. Workshop: Converting an OKR into SMART + KPI goals](33-workshop-converting-an-okr-into-smart-kpi-goals/)
 - [34. Workshop: Audit of SMART goals for a peer](34-workshop-audit-of-smart-goals-for-a-peer/)
+- [35. Final mini-project: Complete measurement plan for a SaaS startup](35-final-mini-project-complete-measurement-plan-for-a-saas-startup/)

@@ -46,4 +46,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 32. [Workshop: Weekly vs monthly monitoring plan](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/b937529d-765a-4f58-bad8-c682f59199ce/workshop-weekly-vs-monthly-monitoring-plan)
 33. [Workshop: Converting an OKR into SMART + KPI goals](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/ed00a1cc-cefb-42a3-8b48-be99463949de/workshop-converting-an-okr-into-smart-kpi-goals)
 34. [Workshop: Audit of SMART goals for a peer](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/c0ad644f-793e-4664-8725-6d5c36768f32/workshop-audit-of-smart-goals-for-a-peer)
+35. [Final mini-project: Complete measurement plan for a SaaS startup](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/dde295e9-b0df-4b46-a18f-68306e821c41/final-mini-project-complete-measurement-plan-for-a-saas-startup)
 
