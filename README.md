@@ -42,3 +42,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [34. Workshop: Audit of SMART goals for a peer](34-workshop-audit-of-smart-goals-for-a-peer/)
 - [35. Final mini-project: Complete measurement plan for a SaaS startup](35-final-mini-project-complete-measurement-plan-for-a-saas-startup/)
 - [36. Personal workshop: Formalizing your own SMART goals and KPIs](36-personal-workshop-formalizing-your-own-smart-goals-and-kpis/)
+- [37. Workshop: identify simple segments (e-commerce case)](37-workshop-identify-simple-segments-e-commerce-case/)
