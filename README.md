@@ -44,3 +44,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [36. Personal workshop: Formalizing your own SMART goals and KPIs](36-personal-workshop-formalizing-your-own-smart-goals-and-kpis/)
 - [37. Workshop: identify simple segments (e-commerce case)](37-workshop-identify-simple-segments-e-commerce-case/)
 - [38. Workshop: extracting insights for a persona](38-workshop-extracting-insights-for-a-persona/)
+- [39. Workshop: writing a basic persona form](39-workshop-writing-a-basic-persona-form/)
