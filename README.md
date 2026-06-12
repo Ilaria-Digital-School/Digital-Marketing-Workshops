@@ -45,3 +45,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [37. Workshop: identify simple segments (e-commerce case)](37-workshop-identify-simple-segments-e-commerce-case/)
 - [38. Workshop: extracting insights for a persona](38-workshop-extracting-insights-for-a-persona/)
 - [39. Workshop: writing a basic persona form](39-workshop-writing-a-basic-persona-form/)
+- [40. Adapting the persona to another sector](40-adapting-the-persona-to-another-sector/)
