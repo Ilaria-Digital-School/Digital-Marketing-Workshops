@@ -53,4 +53,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 39. [Workshop: writing a basic persona form](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/f68807af-863e-479f-8e67-4a1d68915364/workshop-writing-a-basic-persona-form)
 40. [Adapting the persona to another sector](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/fc5324ea-265d-4b2c-ae71-2d05453fee61/adapting-the-persona-to-another-sector)
 41. [Workshop: combining segment and persona (mini-case)](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/80e9d4ce-9ca2-4d23-804d-384c70a510b3/workshop-combining-segment-and-persona-mini-case)
+42. [Sprint 15': create a quick persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/fc71276d-a13e-4447-aeb0-ceda9d41c829/sprint-15-create-a-quick-persona)
 

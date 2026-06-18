@@ -47,3 +47,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [39. Workshop: writing a basic persona form](39-workshop-writing-a-basic-persona-form/)
 - [40. Adapting the persona to another sector](40-adapting-the-persona-to-another-sector/)
 - [41. Workshop: combining segment and persona (mini-case)](41-workshop-combining-segment-and-persona-mini-case/)
+- [42. Sprint 15': create a quick persona](42-sprint-15-create-a-quick-persona/)
