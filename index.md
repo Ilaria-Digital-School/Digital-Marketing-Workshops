@@ -57,4 +57,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 43. [Recorded user interview simulation](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/1216dae9-5fdb-4301-ad0b-160e9b6268bc/recorded-user-interview-simulation)
 44. [Complete persona kit for a fictional product](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/d62bfaa5-6297-4690-8d18-467ad89aed31/complete-persona-kit-for-a-fictional-product)
 45. [Workshop: mapping a basic path](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/77479b86-1e29-4e39-9d61-808ef974887d/workshop-mapping-a-basic-path)
+46. [Customer journey from another sector](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c77ba05f-3e34-4d5b-b1f0-3c2d11038c0b/customer-journey-from-another-sector)
 
