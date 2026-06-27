@@ -52,3 +52,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [44. Complete persona kit for a fictional product](44-complete-persona-kit-for-a-fictional-product/)
 - [45. Workshop: mapping a basic path](45-workshop-mapping-a-basic-path/)
 - [46. Customer journey from another sector](46-customer-journey-from-another-sector/)
+- [47. Workshop: enriching a course with behavioral data](47-workshop-enriching-a-course-with-behavioral-data/)
