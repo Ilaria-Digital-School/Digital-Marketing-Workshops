@@ -59,4 +59,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 45. [Workshop: mapping a basic path](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/77479b86-1e29-4e39-9d61-808ef974887d/workshop-mapping-a-basic-path)
 46. [Customer journey from another sector](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c77ba05f-3e34-4d5b-b1f0-3c2d11038c0b/customer-journey-from-another-sector)
 47. [Workshop: enriching a course with behavioral data](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/94742ad2-065c-46df-905c-8b4a6f4c30ad/workshop-enriching-a-course-with-behavioral-data)
+48. [Workshop: adding emotions and expectations to the CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c75f319e-3489-48f5-9664-e67facba6322/workshop-adding-emotions-and-expectations-to-the-cjm)
 

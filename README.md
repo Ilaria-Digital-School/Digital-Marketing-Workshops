@@ -53,3 +53,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [45. Workshop: mapping a basic path](45-workshop-mapping-a-basic-path/)
 - [46. Customer journey from another sector](46-customer-journey-from-another-sector/)
 - [47. Workshop: enriching a course with behavioral data](47-workshop-enriching-a-course-with-behavioral-data/)
+- [48. Workshop: adding emotions and expectations to the CJM](48-workshop-adding-emotions-and-expectations-to-the-cjm/)
