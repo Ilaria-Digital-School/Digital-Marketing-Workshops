@@ -55,3 +55,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [47. Workshop: enriching a course with behavioral data](47-workshop-enriching-a-course-with-behavioral-data/)
 - [48. Workshop: adding emotions and expectations to the CJM](48-workshop-adding-emotions-and-expectations-to-the-cjm/)
 - [49. Workshop: emailing storyboarding aligned with the course](49-workshop-emailing-storyboarding-aligned-with-the-course/)
+- [50. Workshop: defining indicators for an existing CJM](50-workshop-defining-indicators-for-an-existing-cjm/)
