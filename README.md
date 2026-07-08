@@ -57,3 +57,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [49. Workshop: emailing storyboarding aligned with the course](49-workshop-emailing-storyboarding-aligned-with-the-course/)
 - [50. Workshop: defining indicators for an existing CJM](50-workshop-defining-indicators-for-an-existing-cjm/)
 - [51. Project thread (part 1): Full CM for 2 people](51-project-thread-part-1-full-cm-for-2-people/)
+- [52. Peer-to-peer feedback session on the CJM](52-peer-to-peer-feedback-session-on-the-cjm/)

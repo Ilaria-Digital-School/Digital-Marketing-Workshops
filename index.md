@@ -63,4 +63,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 49. [Workshop: emailing storyboarding aligned with the course](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/6e8b075f-cc31-4f53-94c0-d1826e477908/workshop-emailing-storyboarding-aligned-with-the-course)
 50. [Workshop: defining indicators for an existing CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/6910ac40-ced5-4dfb-a033-a8bd4d059c54/workshop-defining-indicators-for-an-existing-cjm)
 51. [Project thread (part 1): Full CM for 2 people](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/073f1e8e-947f-4957-bb06-937d451501fd/project-thread-part-1-full-cm-for-2-people)
+52. [Peer-to-peer feedback session on the CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c05c3479-fffb-4967-87d8-60209b580074/peer-to-peer-feedback-session-on-the-cjm)
 
