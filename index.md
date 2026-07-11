@@ -65,4 +65,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 51. [Project thread (part 1): Full CM for 2 people](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/073f1e8e-947f-4957-bb06-937d451501fd/project-thread-part-1-full-cm-for-2-people)
 52. [Peer-to-peer feedback session on the CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c05c3479-fffb-4967-87d8-60209b580074/peer-to-peer-feedback-session-on-the-cjm)
 53. [Project thread (part 2): adjustments & final presentation](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/20e1cba0-971c-45f1-b231-c6e58c4c30b5/project-thread-part-2-adjustments-final-presentation)
+54. [Identify examples of content marketing around you](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/2d63b88d-93f4-4061-b665-f5b7a80c1696/identify-examples-of-content-marketing-around-you)
 
