@@ -60,3 +60,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [52. Peer-to-peer feedback session on the CJM](52-peer-to-peer-feedback-session-on-the-cjm/)
 - [53. Project thread (part 2): adjustments & final presentation](53-project-thread-part-2-adjustments-final-presentation/)
 - [54. Identify examples of content marketing around you](54-identify-examples-of-content-marketing-around-you/)
+- [55. Analyzing a simple content campaign case](55-analyzing-a-simple-content-campaign-case/)
