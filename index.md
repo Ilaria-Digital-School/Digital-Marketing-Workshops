@@ -67,4 +67,6 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 53. [Project thread (part 2): adjustments & final presentation](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/f80cba8c-d5f2-4112-98e7-6469ba9293e7/20e1cba0-971c-45f1-b231-c6e58c4c30b5/project-thread-part-2-adjustments-final-presentation)
 54. [Identify examples of content marketing around you](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/2d63b88d-93f4-4061-b665-f5b7a80c1696/identify-examples-of-content-marketing-around-you)
 55. [Analyzing a simple content campaign case](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/27b17d10-dd99-496f-bf7b-58a77752335e/analyzing-a-simple-content-campaign-case)
+56. [Workshop: formulating a SMART content objective](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/8e50c854-910c-45bc-9d99-005846251007/workshop-formulating-a-smart-content-objective)
+57. [Reformulate goals for different industries](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/64447475-098c-4bca-9f0b-0a37f85cce75/reformulate-goals-for-different-industries)
 
