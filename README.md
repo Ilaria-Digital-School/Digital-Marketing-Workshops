@@ -63,3 +63,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [55. Analyzing a simple content campaign case](55-analyzing-a-simple-content-campaign-case/)
 - [56. Workshop: formulating a SMART content objective](56-workshop-formulating-a-smart-content-objective/)
 - [57. Reformulate goals for different industries](57-reformulate-goals-for-different-industries/)
+- [58. Brainstorming: Finding Valuable Content Ideas](58-brainstorming-finding-valuable-content-ideas/)
