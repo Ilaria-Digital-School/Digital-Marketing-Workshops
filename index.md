@@ -71,4 +71,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 57. [Reformulate goals for different industries](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/64447475-098c-4bca-9f0b-0a37f85cce75/reformulate-goals-for-different-industries)
 58. [Brainstorming: Finding Valuable Content Ideas](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/0c6a9c30-d623-4557-bc52-3a6edcc0d8fc/brainstorming-finding-valuable-content-ideas)
 59. [Workshop: create a basic persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/92f7a99d-9f41-4c69-9747-942e63e216a8/workshop-create-a-basic-persona)
+60. [Associate types of content to the stages of the journey](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/16564402-44b7-4448-b205-076d57de4c0f/associate-types-of-content-to-the-stages-of-the-journey)
 
