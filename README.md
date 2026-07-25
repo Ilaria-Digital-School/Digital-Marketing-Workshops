@@ -67,3 +67,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [59. Workshop: create a basic persona](59-workshop-create-a-basic-persona/)
 - [60. Associate types of content to the stages of the journey](60-associate-types-of-content-to-the-stages-of-the-journey/)
 - [61. Adapting existing content to a new persona](61-adapting-existing-content-to-a-new-persona/)
+- [62. Mini-case: diagnosis of a beginner content strategy](62-mini-case-diagnosis-of-a-beginner-content-strategy/)

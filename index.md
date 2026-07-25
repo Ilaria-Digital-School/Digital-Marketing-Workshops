@@ -73,4 +73,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 59. [Workshop: create a basic persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/92f7a99d-9f41-4c69-9747-942e63e216a8/workshop-create-a-basic-persona)
 60. [Associate types of content to the stages of the journey](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/16564402-44b7-4448-b205-076d57de4c0f/associate-types-of-content-to-the-stages-of-the-journey)
 61. [Adapting existing content to a new persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/9611b9c0-993b-441c-b2d4-f398700a2fed/adapting-existing-content-to-a-new-persona)
+62. [Mini-case: diagnosis of a beginner content strategy](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/1cb6c89e-fadb-407f-a784-7644606aaa17/mini-case-diagnosis-of-a-beginner-content-strategy)
 
