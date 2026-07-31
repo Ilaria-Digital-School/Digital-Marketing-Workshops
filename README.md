@@ -70,3 +70,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [62. Mini-case: diagnosis of a beginner content strategy](62-mini-case-diagnosis-of-a-beginner-content-strategy/)
 - [63. Sprint 1: define goals and personas for a personal project](63-sprint-1-define-goals-and-personas-for-a-personal-project/)
 - [64. Unpacking a successful brand story](64-unpacking-a-successful-brand-story/)
+- [65. Workshop: writing a micro-story in 3 acts](65-workshop-writing-a-micro-story-in-3-acts/)

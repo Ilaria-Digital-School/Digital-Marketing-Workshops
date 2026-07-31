@@ -76,4 +76,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 62. [Mini-case: diagnosis of a beginner content strategy](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/1cb6c89e-fadb-407f-a784-7644606aaa17/mini-case-diagnosis-of-a-beginner-content-strategy)
 63. [Sprint 1: define goals and personas for a personal project](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/b13feabd-8383-4c0d-9c75-a2429552fe31/sprint-1-define-goals-and-personas-for-a-personal-project)
 64. [Unpacking a successful brand story](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/994268c6-364a-4869-aa3d-ed02cf92eed2/unpacking-a-successful-brand-story)
+65. [Workshop: writing a micro-story in 3 acts](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/eaa941f6-2711-483b-970c-37f690f0161c/workshop-writing-a-micro-story-in-3-acts)
 
