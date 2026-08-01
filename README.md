@@ -71,3 +71,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [63. Sprint 1: define goals and personas for a personal project](63-sprint-1-define-goals-and-personas-for-a-personal-project/)
 - [64. Unpacking a successful brand story](64-unpacking-a-successful-brand-story/)
 - [65. Workshop: writing a micro-story in 3 acts](65-workshop-writing-a-micro-story-in-3-acts/)
+- [66. Turning a sales story into a customer story](66-turning-a-sales-story-into-a-customer-story/)
