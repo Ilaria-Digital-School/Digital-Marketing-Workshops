@@ -78,4 +78,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 64. [Unpacking a successful brand story](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/994268c6-364a-4869-aa3d-ed02cf92eed2/unpacking-a-successful-brand-story)
 65. [Workshop: writing a micro-story in 3 acts](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/eaa941f6-2711-483b-970c-37f690f0161c/workshop-writing-a-micro-story-in-3-acts)
 66. [Turning a sales story into a customer story](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/e27186e6-6c37-420e-b863-a619f5f0ddfb/turning-a-sales-story-into-a-customer-story)
+67. [Creative exercise: finding the conflict relevant to your audience](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/036a1d5b-7317-4c08-9477-a22f7a9f8f14/creative-exercise-finding-the-conflict-relevant-to-your-audience)
 

@@ -72,3 +72,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [64. Unpacking a successful brand story](64-unpacking-a-successful-brand-story/)
 - [65. Workshop: writing a micro-story in 3 acts](65-workshop-writing-a-micro-story-in-3-acts/)
 - [66. Turning a sales story into a customer story](66-turning-a-sales-story-into-a-customer-story/)
+- [67. Creative exercise: finding the conflict relevant to your audience](67-creative-exercise-finding-the-conflict-relevant-to-your-audience/)
