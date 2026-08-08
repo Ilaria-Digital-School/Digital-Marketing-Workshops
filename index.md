@@ -81,4 +81,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 67. [Creative exercise: finding the conflict relevant to your audience](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/036a1d5b-7317-4c08-9477-a22f7a9f8f14/creative-exercise-finding-the-conflict-relevant-to-your-audience)
 68. [Create a first monthly calendar on a spreadsheet](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/5975511b-16d4-4460-92c9-f020cd261cea/create-a-first-monthly-calendar-on-a-spreadsheet)
 69. [Choose the format adapted to each stage of the journey](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/0db7e418-7701-40ab-a366-6dbf5cb311c2/choose-the-format-adapted-to-each-stage-of-the-journey)
+70. [Rebalancing an overloaded calendar](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/ab464f49-9dfb-46e2-bfdd-21c01cfe77b4/rebalancing-an-overloaded-calendar)
 

@@ -75,3 +75,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [67. Creative exercise: finding the conflict relevant to your audience](67-creative-exercise-finding-the-conflict-relevant-to-your-audience/)
 - [68. Create a first monthly calendar on a spreadsheet](68-create-a-first-monthly-calendar-on-a-spreadsheet/)
 - [69. Choose the format adapted to each stage of the journey](69-choose-the-format-adapted-to-each-stage-of-the-journey/)
+- [70. Rebalancing an overloaded calendar](70-rebalancing-an-overloaded-calendar/)
