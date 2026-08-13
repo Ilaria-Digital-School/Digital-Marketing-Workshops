@@ -77,3 +77,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [69. Choose the format adapted to each stage of the journey](69-choose-the-format-adapted-to-each-stage-of-the-journey/)
 - [70. Rebalancing an overloaded calendar](70-rebalancing-an-overloaded-calendar/)
 - [71. Exercise: define the voice of your brand in 3 adjectives](71-exercise-define-the-voice-of-your-brand-in-3-adjectives/)
+- [72. Mini-case: auditing a calendar and proposing improvements](72-mini-case-auditing-a-calendar-and-proposing-improvements/)

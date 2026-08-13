@@ -83,4 +83,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 69. [Choose the format adapted to each stage of the journey](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/0db7e418-7701-40ab-a366-6dbf5cb311c2/choose-the-format-adapted-to-each-stage-of-the-journey)
 70. [Rebalancing an overloaded calendar](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/ab464f49-9dfb-46e2-bfdd-21c01cfe77b4/rebalancing-an-overloaded-calendar)
 71. [Exercise: define the voice of your brand in 3 adjectives](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/59d63336-db03-40d0-9cb5-2f3f472255b2/exercise-define-the-voice-of-your-brand-in-3-adjectives)
+72. [Mini-case: auditing a calendar and proposing improvements](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/c302e531-3e8f-4cc6-906f-ccb2bc9a6727/mini-case-auditing-a-calendar-and-proposing-improvements)
 
