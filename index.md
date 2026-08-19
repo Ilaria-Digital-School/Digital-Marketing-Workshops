@@ -85,4 +85,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 71. [Exercise: define the voice of your brand in 3 adjectives](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/59d63336-db03-40d0-9cb5-2f3f472255b2/exercise-define-the-voice-of-your-brand-in-3-adjectives)
 72. [Mini-case: auditing a calendar and proposing improvements](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/c302e531-3e8f-4cc6-906f-ccb2bc9a6727/mini-case-auditing-a-calendar-and-proposing-improvements)
 73. [Associate KPIs with each objective and format](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/36d51ac5-a129-4474-a9b5-f4a2551ff51a/associate-kpis-with-each-objective-and-format)
+74. [Define a simple content-based nurturing scenario](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/7b0ab872-40a6-4caf-8c86-fe9caebcb9d0/define-a-simple-content-based-nurturing-scenario)
 

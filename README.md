@@ -79,3 +79,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [71. Exercise: define the voice of your brand in 3 adjectives](71-exercise-define-the-voice-of-your-brand-in-3-adjectives/)
 - [72. Mini-case: auditing a calendar and proposing improvements](72-mini-case-auditing-a-calendar-and-proposing-improvements/)
 - [73. Associate KPIs with each objective and format](73-associate-kpis-with-each-objective-and-format/)
+- [74. Define a simple content-based nurturing scenario](74-define-a-simple-content-based-nurturing-scenario/)
