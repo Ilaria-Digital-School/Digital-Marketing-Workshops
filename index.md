@@ -86,4 +86,6 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 72. [Mini-case: auditing a calendar and proposing improvements](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/c302e531-3e8f-4cc6-906f-ccb2bc9a6727/mini-case-auditing-a-calendar-and-proposing-improvements)
 73. [Associate KPIs with each objective and format](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/36d51ac5-a129-4474-a9b5-f4a2551ff51a/associate-kpis-with-each-objective-and-format)
 74. [Define a simple content-based nurturing scenario](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/7b0ab872-40a6-4caf-8c86-fe9caebcb9d0/define-a-simple-content-based-nurturing-scenario)
+75. [Sprint 2: Design a comprehensive narrative content plan](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/2b720285-007e-4d7b-b31a-f336191160d8/sprint-2-design-a-comprehensive-narrative-content-plan)
+76. [Peer review: cross-feedback on content plans](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/086684dc-2e3c-49c7-9028-f41efe4696db/peer-review-cross-feedback-on-content-plans)
 
