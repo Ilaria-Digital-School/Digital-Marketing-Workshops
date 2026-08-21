@@ -82,3 +82,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [74. Define a simple content-based nurturing scenario](74-define-a-simple-content-based-nurturing-scenario/)
 - [75. Sprint 2: Design a comprehensive narrative content plan](75-sprint-2-design-a-comprehensive-narrative-content-plan/)
 - [76. Peer review: cross-feedback on content plans](76-peer-review-cross-feedback-on-content-plans/)
+- [77. Capstone: Presentation and arguments of its content marketing strategy](77-capstone-presentation-and-arguments-of-its-content-marketing-strategy/)
