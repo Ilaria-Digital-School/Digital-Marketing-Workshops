@@ -89,4 +89,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 75. [Sprint 2: Design a comprehensive narrative content plan](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/2b720285-007e-4d7b-b31a-f336191160d8/sprint-2-design-a-comprehensive-narrative-content-plan)
 76. [Peer review: cross-feedback on content plans](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/086684dc-2e3c-49c7-9028-f41efe4696db/peer-review-cross-feedback-on-content-plans)
 77. [Capstone: Presentation and arguments of its content marketing strategy](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/7d10276f-87e5-4be2-bf5a-02e1ba3c3cb8/capstone-presentation-and-arguments-of-its-content-marketing-strategy)
+78. [Workshop: observe the crawl with Screaming Frog](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9eb93e56-292a-481b-83b7-b3348f7e99e7/workshop-observe-the-crawl-with-screaming-frog)
 
