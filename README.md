@@ -84,3 +84,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [76. Peer review: cross-feedback on content plans](76-peer-review-cross-feedback-on-content-plans/)
 - [77. Capstone: Presentation and arguments of its content marketing strategy](77-capstone-presentation-and-arguments-of-its-content-marketing-strategy/)
 - [78. Workshop: observe the crawl with Screaming Frog](78-workshop-observe-the-crawl-with-screaming-frog/)
+- [79. Workshop: identifying the key elements of a SERP](79-workshop-identifying-the-key-elements-of-a-serp/)
+- [80. Workshop: classify 5 fictional pages according to their relevance](80-workshop-classify-5-fictional-pages-according-to-their-relevance/)

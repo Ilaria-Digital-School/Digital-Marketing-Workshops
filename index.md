@@ -90,4 +90,6 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 76. [Peer review: cross-feedback on content plans](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/086684dc-2e3c-49c7-9028-f41efe4696db/peer-review-cross-feedback-on-content-plans)
 77. [Capstone: Presentation and arguments of its content marketing strategy](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/17020e84-9c8d-482f-b6b9-aea0cd907f06/7d10276f-87e5-4be2-bf5a-02e1ba3c3cb8/capstone-presentation-and-arguments-of-its-content-marketing-strategy)
 78. [Workshop: observe the crawl with Screaming Frog](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9eb93e56-292a-481b-83b7-b3348f7e99e7/workshop-observe-the-crawl-with-screaming-frog)
+79. [Workshop: identifying the key elements of a SERP](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2d892fa2-e994-4705-a15b-c94f95b677b3/workshop-identifying-the-key-elements-of-a-serp)
+80. [Workshop: classify 5 fictional pages according to their relevance](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/285d7bf8-b62b-4d49-86fd-0eadb41f9780/workshop-classify-5-fictional-pages-according-to-their-relevance)
 
