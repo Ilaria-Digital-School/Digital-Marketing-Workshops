@@ -92,4 +92,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 78. [Workshop: observe the crawl with Screaming Frog](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9eb93e56-292a-481b-83b7-b3348f7e99e7/workshop-observe-the-crawl-with-screaming-frog)
 79. [Workshop: identifying the key elements of a SERP](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2d892fa2-e994-4705-a15b-c94f95b677b3/workshop-identifying-the-key-elements-of-a-serp)
 80. [Workshop: classify 5 fictional pages according to their relevance](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/285d7bf8-b62b-4d49-86fd-0eadb41f9780/workshop-classify-5-fictional-pages-according-to-their-relevance)
+81. [Workshop: manipulating robots.txt and sitemap on a sandbox](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2701b926-c764-41d7-9ac0-276daddcb6d3/workshop-manipulating-robots-txt-and-sitemap-on-a-sandbox)
 
