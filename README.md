@@ -87,3 +87,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [79. Workshop: identifying the key elements of a SERP](79-workshop-identifying-the-key-elements-of-a-serp/)
 - [80. Workshop: classify 5 fictional pages according to their relevance](80-workshop-classify-5-fictional-pages-according-to-their-relevance/)
 - [81. Workshop: manipulating robots.txt and sitemap on a sandbox](81-workshop-manipulating-robots-txt-and-sitemap-on-a-sandbox/)
+- [82. Workshop: brainstorm keywords with Google Suggest](82-workshop-brainstorm-keywords-with-google-suggest/)
