@@ -89,3 +89,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [81. Workshop: manipulating robots.txt and sitemap on a sandbox](81-workshop-manipulating-robots-txt-and-sitemap-on-a-sandbox/)
 - [82. Workshop: brainstorm keywords with Google Suggest](82-workshop-brainstorm-keywords-with-google-suggest/)
 - [83. Workshop: using Ubersuggest to analyze keyword metrics](83-workshop-using-ubersuggest-to-analyze-keyword-metrics/)
+- [84. Workshop: grouping keywords by intent](84-workshop-grouping-keywords-by-intent/)
