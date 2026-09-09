@@ -91,3 +91,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [83. Workshop: using Ubersuggest to analyze keyword metrics](83-workshop-using-ubersuggest-to-analyze-keyword-metrics/)
 - [84. Workshop: grouping keywords by intent](84-workshop-grouping-keywords-by-intent/)
 - [85. Workshop: building a prioritization matrix](85-workshop-building-a-prioritization-matrix/)
+- [86. Mini-project: write the complete keyword brief for a fictional site](86-mini-project-write-the-complete-keyword-brief-for-a-fictional-site/)
