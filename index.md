@@ -98,4 +98,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 84. [Workshop: grouping keywords by intent](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/b6267ab5-5201-416f-9444-54384c678762/workshop-grouping-keywords-by-intent)
 85. [Workshop: building a prioritization matrix](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3d12a73-855b-4345-9118-43b26f232bdd/workshop-building-a-prioritization-matrix)
 86. [Mini-project: write the complete keyword brief for a fictional site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/5f3bac86-29ae-48e9-8c9a-9108d92053ff/mini-project-write-the-complete-keyword-brief-for-a-fictional-site)
+87. [Workshop: rewriting a Title and a Meta Description](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/155ccf67-1804-4a07-af22-af53f51796e9/workshop-rewriting-a-title-and-a-meta-description)
 
