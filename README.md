@@ -94,3 +94,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [86. Mini-project: write the complete keyword brief for a fictional site](86-mini-project-write-the-complete-keyword-brief-for-a-fictional-site/)
 - [87. Workshop: rewriting a Title and a Meta Description](87-workshop-rewriting-a-title-and-a-meta-description/)
 - [88. Workshop: structuring an article with H1-H3](88-workshop-structuring-an-article-with-h1-h3/)
+- [89. Workshop: quick audit of existing content](89-workshop-quick-audit-of-existing-content/)
