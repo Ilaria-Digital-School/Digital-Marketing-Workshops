@@ -102,4 +102,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 88. [Workshop: structuring an article with H1-H3](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/4b0fff89-1487-400f-a633-81972187f736/workshop-structuring-an-article-with-h1-h3)
 89. [Workshop: quick audit of existing content](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/e839c112-a6d0-4510-9555-95d33573e3da/workshop-quick-audit-of-existing-content)
 90. [Workshop: optimizing the internal links of a mini-site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/db54ade9-34a9-4f66-a779-8dabbac1cd74/workshop-optimizing-the-internal-links-of-a-mini-site)
+91. [Workshop: testing speed with PageSpeed Insights](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/08ecdfec-c23f-45ea-a221-754a1f48bcd7/workshop-testing-speed-with-pagespeed-insights)
 

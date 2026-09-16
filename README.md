@@ -96,3 +96,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [88. Workshop: structuring an article with H1-H3](88-workshop-structuring-an-article-with-h1-h3/)
 - [89. Workshop: quick audit of existing content](89-workshop-quick-audit-of-existing-content/)
 - [90. Workshop: optimizing the internal links of a mini-site](90-workshop-optimizing-the-internal-links-of-a-mini-site/)
+- [91. Workshop: testing speed with PageSpeed Insights](91-workshop-testing-speed-with-pagespeed-insights/)
