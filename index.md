@@ -104,4 +104,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 90. [Workshop: optimizing the internal links of a mini-site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/db54ade9-34a9-4f66-a779-8dabbac1cd74/workshop-optimizing-the-internal-links-of-a-mini-site)
 91. [Workshop: testing speed with PageSpeed Insights](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/08ecdfec-c23f-45ea-a221-754a1f48bcd7/workshop-testing-speed-with-pagespeed-insights)
 92. [Workshop: drawing an optimized tree structure](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/521474ac-b4ee-4fb9-b060-646a403087f2/workshop-drawing-an-optimized-tree-structure)
+93. [Workshop: correcting a redirection plan](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/f48b984a-fc6c-47c6-9c60-0228130adcac/workshop-correcting-a-redirection-plan)
 

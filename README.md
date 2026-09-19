@@ -98,3 +98,4 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [90. Workshop: optimizing the internal links of a mini-site](90-workshop-optimizing-the-internal-links-of-a-mini-site/)
 - [91. Workshop: testing speed with PageSpeed Insights](91-workshop-testing-speed-with-pagespeed-insights/)
 - [92. Workshop: drawing an optimized tree structure](92-workshop-drawing-an-optimized-tree-structure/)
+- [93. Workshop: correcting a redirection plan](93-workshop-correcting-a-redirection-plan/)
