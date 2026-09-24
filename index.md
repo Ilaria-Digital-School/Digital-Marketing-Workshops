@@ -107,4 +107,6 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 93. [Workshop: correcting a redirection plan](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/f48b984a-fc6c-47c6-9c60-0228130adcac/workshop-correcting-a-redirection-plan)
 94. [Workshop: diagnosing a site's link profile](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3943ba0-f198-453d-8592-32efa4f02ac6/workshop-diagnosing-a-site-s-link-profile)
 95. [Workshop: brainstorm a link building campaign](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9716049e-b3fc-406c-a0ab-800560cca375/workshop-brainstorm-a-link-building-campaign)
+96. [Workshop: Setting up Search Console and reading its first report](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/d6856bac-4b16-4c9a-986c-1937ca0f0ee9/workshop-setting-up-search-console-and-reading-its-first-report)
+97. [Summary mini-project: building the complete SEO plan for a site](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/71ce28a3-f774-4abf-80c3-4a8049d81b8f/6f4e5b70-b6e7-4b40-80df-dad29fbe2fc0/summary-mini-project-building-the-complete-seo-plan-for-a-site)
 

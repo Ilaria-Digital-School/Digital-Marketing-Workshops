@@ -101,3 +101,5 @@ Acquire a complete mastery of digital marketing to develop strategies. Skills: I
 - [93. Workshop: correcting a redirection plan](93-workshop-correcting-a-redirection-plan/)
 - [94. Workshop: diagnosing a site's link profile](94-workshop-diagnosing-a-site-s-link-profile/)
 - [95. Workshop: brainstorm a link building campaign](95-workshop-brainstorm-a-link-building-campaign/)
+- [96. Workshop: Setting up Search Console and reading its first report](96-workshop-setting-up-search-console-and-reading-its-first-report/)
+- [97. Summary mini-project: building the complete SEO plan for a site](97-summary-mini-project-building-the-complete-seo-plan-for-a-site/)
