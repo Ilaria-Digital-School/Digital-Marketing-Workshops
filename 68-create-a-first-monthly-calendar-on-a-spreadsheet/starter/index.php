@@ -1,2 +1,0 @@
-<?php
-// Create a first monthly calendar on a spreadsheet

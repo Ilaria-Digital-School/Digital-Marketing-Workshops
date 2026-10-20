@@ -1,2 +1,0 @@
-<?php
-// Workshop: adding emotions and expectations to the CJM

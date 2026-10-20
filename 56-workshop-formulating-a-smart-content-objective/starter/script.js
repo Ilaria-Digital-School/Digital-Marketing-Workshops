@@ -1,1 +1,0 @@
-// Workshop: formulating a SMART content objective

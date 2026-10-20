@@ -1,2 +1,0 @@
-<?php
-// Workshop: Linking a SMART goal to a simple KPI

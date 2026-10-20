@@ -1,2 +1,0 @@
-<?php
-// Workshop: creating a dedicated Gmail address

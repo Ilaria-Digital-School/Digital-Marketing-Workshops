@@ -1,1 +1,0 @@
-// Workshop: correcting a redirection plan

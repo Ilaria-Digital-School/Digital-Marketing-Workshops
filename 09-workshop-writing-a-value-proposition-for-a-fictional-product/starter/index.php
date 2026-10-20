@@ -1,2 +1,0 @@
-<?php
-// Workshop: writing a value proposition for a fictional product

@@ -1,2 +1,0 @@
-<?php
-// Peer-to-peer feedback session on the CJM

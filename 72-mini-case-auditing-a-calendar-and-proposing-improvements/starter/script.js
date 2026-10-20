@@ -1,1 +1,0 @@
-// Mini-case: auditing a calendar and proposing improvements

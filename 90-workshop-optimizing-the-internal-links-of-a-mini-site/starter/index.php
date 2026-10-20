@@ -1,2 +1,0 @@
-<?php
-// Workshop: optimizing the internal links of a mini-site

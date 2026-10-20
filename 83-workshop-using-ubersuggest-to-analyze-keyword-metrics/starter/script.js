@@ -1,1 +1,0 @@
-// Workshop: using Ubersuggest to analyze keyword metrics

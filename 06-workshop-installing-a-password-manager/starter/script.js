@@ -1,1 +1,0 @@
-// Workshop: installing a password manager

@@ -1,1 +1,0 @@
-# Workshop: mapping a basic path
