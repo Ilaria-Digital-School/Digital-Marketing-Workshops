@@ -4,3 +4,6 @@ Design and steer a company's digital marketing strategy, from market analysis to
 
 [View the full workshop](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/en/)
 
+## Workshops
+
+- [01. Identify the digital marketing actions of a brand you know](01-identify-the-digital-marketing-actions-of-a-brand-you-know/)
