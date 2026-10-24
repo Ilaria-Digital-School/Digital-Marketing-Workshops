@@ -1,0 +1,2 @@
+<?php
+// Workshop: combining marketing goals and channels

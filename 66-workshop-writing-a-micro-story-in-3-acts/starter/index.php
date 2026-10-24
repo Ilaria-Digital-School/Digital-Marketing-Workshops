@@ -1,0 +1,2 @@
+<?php
+// Workshop: writing a micro-story in 3 acts

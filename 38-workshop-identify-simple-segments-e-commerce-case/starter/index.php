@@ -1,0 +1,2 @@
+<?php
+// Workshop: identify simple segments (e-commerce case)

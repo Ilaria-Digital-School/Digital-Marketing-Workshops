@@ -1,0 +1,1 @@
+// Exercise: define the voice of your brand in 3 adjectives

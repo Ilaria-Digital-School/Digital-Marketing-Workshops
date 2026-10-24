@@ -1,0 +1,2 @@
+<?php
+// Workshop: associate KPIs with funnel stages
