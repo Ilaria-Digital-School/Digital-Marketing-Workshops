@@ -1,0 +1,1 @@
+# Summary mini-project: building the complete SEO plan for a site
