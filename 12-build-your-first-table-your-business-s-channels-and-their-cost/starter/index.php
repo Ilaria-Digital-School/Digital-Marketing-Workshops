@@ -1,0 +1,2 @@
+<?php
+// Build your first table: your business's channels and their cost
