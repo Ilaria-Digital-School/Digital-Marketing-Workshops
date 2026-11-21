@@ -1,0 +1,2 @@
+<?php
+// Workshop: structuring an article with H1-H3
