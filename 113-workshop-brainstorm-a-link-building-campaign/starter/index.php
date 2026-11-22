@@ -1,0 +1,2 @@
+<?php
+// Workshop: brainstorm a link building campaign
